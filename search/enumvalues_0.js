@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['hc_5fdrive_5fmode_5ffrontend_5fdriven_0',['HC_DRIVE_MODE_FRONTEND_DRIVEN',['../core_8h.html#a037648f237857cb51b76e3fa9a1ad283afd7f984c339baf9940da15f2dc9164e5',1,'core.h']]],
+  ['hc_5fdrive_5fmode_5fself_5fdriven_1',['HC_DRIVE_MODE_SELF_DRIVEN',['../core_8h.html#a037648f237857cb51b76e3fa9a1ad283a653878411d1927ac1012adbc6bbcd8b3',1,'core.h']]],
+  ['hc_5fdrive_5fmode_5fself_5fdriven_5fexcept_5faudio_2',['HC_DRIVE_MODE_SELF_DRIVEN_EXCEPT_AUDIO',['../core_8h.html#a037648f237857cb51b76e3fa9a1ad283af1ef9c9d567c2c5a494a18d72a12682d',1,'core.h']]],
+  ['hc_5ferror_5faudio_5foverrun_3',['HC_ERROR_AUDIO_OVERRUN',['../core_8h.html#a759b24873650f1d6c675159eec42ec4ba1f5770c6f3237ed515281c80873c9c95',1,'core.h']]],
+  ['hc_5ferror_5fbad_5faudio_5fdata_5fhave_4',['HC_ERROR_BAD_AUDIO_DATA_HAVE',['../core_8h.html#a759b24873650f1d6c675159eec42ec4ba898342ce6ebef2c4435eb2e0ea5640e7',1,'core.h']]],
+  ['hc_5ferror_5fbad_5faudio_5fdata_5fwant_5',['HC_ERROR_BAD_AUDIO_DATA_WANT',['../core_8h.html#a759b24873650f1d6c675159eec42ec4ba89bcdaad197a5901b075aa7812ce4492',1,'core.h']]],
+  ['hc_5ferror_5fbad_5fcontent_6',['HC_ERROR_BAD_CONTENT',['../core_8h.html#a759b24873650f1d6c675159eec42ec4ba27d103d2d0005ef2d1d98425d84e2c7b',1,'core.h']]],
+  ['hc_5ferror_5fbad_5fenvironment_5finfo_7',['HC_ERROR_BAD_ENVIRONMENT_INFO',['../core_8h.html#a759b24873650f1d6c675159eec42ec4baf0ceb908b5a28c94e616aa8596250c2d',1,'core.h']]],
+  ['hc_5ferror_5fbad_5finput_5frequest_8',['HC_ERROR_BAD_INPUT_REQUEST',['../core_8h.html#a759b24873650f1d6c675159eec42ec4ba0fe69537f9f9448165fbf9298068473d',1,'core.h']]],
+  ['hc_5ferror_5fbad_5frenderer_5fversion_9',['HC_ERROR_BAD_RENDERER_VERSION',['../core_8h.html#a759b24873650f1d6c675159eec42ec4ba1d21b3c240cd0104f1198ea735224a6d',1,'core.h']]],
+  ['hc_5ferror_5fcore_10',['HC_ERROR_CORE',['../core_8h.html#a759b24873650f1d6c675159eec42ec4ba7f0a4662ed2b18e130eafc7461c3f856',1,'core.h']]],
+  ['hc_5ferror_5ffully_5fself_5fdriven_11',['HC_ERROR_FULLY_SELF_DRIVEN',['../core_8h.html#a759b24873650f1d6c675159eec42ec4baade810a513339d47748ffa1662be1455',1,'core.h']]],
+  ['hc_5ferror_5fnot_5fall_5fcallbacks_5fset_12',['HC_ERROR_NOT_ALL_CALLBACKS_SET',['../core_8h.html#a759b24873650f1d6c675159eec42ec4baa04504a25889d25665d3e5600d1fa0fa',1,'core.h']]],
+  ['hc_5ferror_5fnot_5fdirect3d_5frendered_13',['HC_ERROR_NOT_DIRECT3D_RENDERED',['../core_8h.html#a759b24873650f1d6c675159eec42ec4ba78adaeb5c862778d41496a93fb921465',1,'core.h']]],
+  ['hc_5ferror_5fnot_5fmetal_5frendered_14',['HC_ERROR_NOT_METAL_RENDERED',['../core_8h.html#a759b24873650f1d6c675159eec42ec4ba21f7a4ae21c1e7a4acbec4edb2b8b46f',1,'core.h']]],
+  ['hc_5ferror_5fnot_5fopengl_5frendered_15',['HC_ERROR_NOT_OPENGL_RENDERED',['../core_8h.html#a759b24873650f1d6c675159eec42ec4ba7ef6c09e9a2917e4b95a918642577836',1,'core.h']]],
+  ['hc_5ferror_5fnot_5fsoftware_5frendered_16',['HC_ERROR_NOT_SOFTWARE_RENDERED',['../core_8h.html#a759b24873650f1d6c675159eec42ec4ba2a9324e3458b64e532beffd05d3dc7cf',1,'core.h']]],
+  ['hc_5ferror_5fnot_5fvulkan_5frendered_17',['HC_ERROR_NOT_VULKAN_RENDERED',['../core_8h.html#a759b24873650f1d6c675159eec42ec4ba5bd94d4156829645acbd3b2e857684b9',1,'core.h']]],
+  ['hc_5freset_5ftype_5fhard_18',['HC_RESET_TYPE_HARD',['../core_8h.html#a5d3cc654aa7d949329150eb6adb80e7aafd245828358cd3449c57de128e502075',1,'core.h']]],
+  ['hc_5freset_5ftype_5fsoft_19',['HC_RESET_TYPE_SOFT',['../core_8h.html#a5d3cc654aa7d949329150eb6adb80e7aa649713e7e9166379fa25244b10c01bf6',1,'core.h']]],
+  ['hc_5frun_5fstate_5fnull_20',['HC_RUN_STATE_NULL',['../core_8h.html#a44bf83ff1a6d60fc89b3dacf92783ae7afe5eb6f65a7e631dc59ce7978768c907',1,'core.h']]],
+  ['hc_5frun_5fstate_5fpaused_21',['HC_RUN_STATE_PAUSED',['../core_8h.html#a44bf83ff1a6d60fc89b3dacf92783ae7a8187e11aa9da46b92acd9936630c3e61',1,'core.h']]],
+  ['hc_5frun_5fstate_5fquit_22',['HC_RUN_STATE_QUIT',['../core_8h.html#a44bf83ff1a6d60fc89b3dacf92783ae7a16a9f900a49b00c1522a96a927c71378',1,'core.h']]],
+  ['hc_5frun_5fstate_5frunning_23',['HC_RUN_STATE_RUNNING',['../core_8h.html#a44bf83ff1a6d60fc89b3dacf92783ae7aa37dedef24d29d22dce997ffb444035f',1,'core.h']]],
+  ['hc_5fsuccess_24',['HC_SUCCESS',['../core_8h.html#a759b24873650f1d6c675159eec42ec4ba208fb807db470d0e9b4cc9b66b280a2e',1,'core.h']]]
+];
